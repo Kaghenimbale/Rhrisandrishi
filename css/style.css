@@ -1,0 +1,42 @@
+* {
+    text-transform: capitalize;
+  margin: 3px;
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#intro2{
+   top: 0;
+   left: 0;
+   right: 0;
+background-color:whitesmoke ;
+}
+#intro2 p {
+    font-size: 24px;
+    background-color: antiquewhite;
+    font-style: italic;
+ font-family: 'Courier New', Courier, monospace;
+}
+#intro{
+    font-size: 25px;
+}
+#intro img{
+    margin-top: 5px;
+}
+#timeline{
+    background-color:beige;
+}
+ul li{background-color: bisque;
+    font-size: 19px;
+}
+#quote{
+    margin-top: 10px;
+    font-size: 18px;
+
+}
+footer{
+    font-style: italic;
+    font-size: large;
+}
